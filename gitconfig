@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = amory.papavero@gmail.com
+	name = Amory Papavero
